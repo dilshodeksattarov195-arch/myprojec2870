@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfalidate",
+        "uuid": 7766220,
+        "checksum": "he74of"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
